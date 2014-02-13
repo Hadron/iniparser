@@ -1,0 +1,2 @@
+version=3
+http://githubredir.debian.net/github/ndevilla/iniparser/ v(\d\S*)\.(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz)))
