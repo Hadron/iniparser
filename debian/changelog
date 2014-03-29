@@ -1,3 +1,10 @@
+iniparser (3.1+20140328.git-1) unstable; urgency=low
+
+  * Move libiniparser0 from libdevel to libs.
+  * Merge to upstream 3.1+20140328.
+  
+ -- Klee Dienes <klee@mit.edu>  Sat, 29 Mar 2014 13:52:13 -0400
+
 iniparser (3.1+20140126.git-1) unstable; urgency=low
 
   * Initial packaging. (Closes: #738850)

@@ -44,7 +44,7 @@ Description: detached debugging symbols for the iniParser INI file reader/writer
  services (both reading and writing).
 
 Package: libiniparser0
-Section: libdevel
+Section: libs
 Architecture: any
 Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
