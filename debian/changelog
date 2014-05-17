@@ -1,12 +1,23 @@
+iniparser (3.1+20140328.git-2) unstable; urgency=medium
+
+  * Initial upload to Debian (Closes: #738850).
+
+  [ Thanks to Daniel Lintott <daniel@serverb.co.uk> ]
+  * Remove .PHONY targets from debian/rules.
+  * Remove build_flags mechanism (now handled by debhelper).
+  * Update debian/watch with new format.
+
+ -- Klee Dienes <klee@mit.edu>  Sat, 17 May 2014 18:55:36 -0400
+
 iniparser (3.1+20140328.git-1) unstable; urgency=low
 
   * Move libiniparser0 from libdevel to libs.
   * Merge to upstream 3.1+20140328.
-  
+
  -- Klee Dienes <klee@mit.edu>  Sat, 29 Mar 2014 13:52:13 -0400
 
 iniparser (3.1+20140126.git-1) unstable; urgency=low
 
-  * Initial packaging. (Closes: #738850)
+  * Initial packaging.
 
  -- Klee Dienes <klee@mit.edu>  Thu, 13 Feb 2014 07:53:01 -0500
